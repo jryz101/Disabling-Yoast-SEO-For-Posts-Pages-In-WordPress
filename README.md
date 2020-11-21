@@ -1,5 +1,5 @@
 # Disabling-Yoast-SEO-For-Posts-Pages-In-WordPress
-This repository contains code snippets that can let you disable specific post or page in WordPress.
+This repository contains code snippets that can let you disable specific post or page SEO output in WordPress.
 
 Yoast SEO plugin makes it easy for marketer to meet the highest technical SEO standards for their website. It also gives you the tools to bring your content to the highest standards of SEO and overall readability.
 
